@@ -1,0 +1,45 @@
+[
+  {
+    "id": 1,
+    "name": "Eleanor Pena",
+    "role": "President of Sales",
+    "organization": "XYZ Organisation"
+  },
+
+  {
+    "id": 2,
+    "name": "Esther Howard",
+    "role": "Marketing Coordinator",
+    "organization": "XYZ Organisation"
+  },
+  {
+    "id": 3,
+    "name": "John Doe",
+    "role": "Marketing Head",
+    "organization": "XYZ Organisation"
+  },
+  {
+    "id": 4,
+    "name": "Savannah Nguyen",
+    "role": "Web Designer",
+    "organization": "XYZ Organisation"
+  },
+  {
+    "id": 5,
+    "name": "Leslie Alexander",
+    "role": "President of Sales",
+    "organization": "XYZ Organisation"
+  },
+  {
+    "id": 6,
+    "name": "Elena Gillbort",
+    "role": "Project Manager",
+    "organization": "XYZ Organisation"
+  },
+  {
+    "id": 7,
+    "name": "Damon Salvatore",
+    "role": "Web Developer",
+    "organization": "XYZ Organisation"
+  }
+]
